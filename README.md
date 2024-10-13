@@ -4,7 +4,7 @@
 <br>
 
 <!-- GIF -->
-<img align="right" height="300" width="450" src="https://user-images.githubusercontent.com/95211406/227517368-8f68c2b7-8c3c-4849-a12a-ff27f23537e3.gif" />
+<img align="right" height="300" width="450" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
 
 <!-- Languages and Tools Section -->
 <!-- <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
